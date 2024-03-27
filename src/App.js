@@ -12,7 +12,7 @@ const NFTMintingDapp = () => {
  
   // Function to handle generating
   const handleGenerate = () => {
-    const apiKey = "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"; // Your API key
+    const apiKey = ""; // Your API key
     
     // API endpoint for image generation
     const apiUrl = "https://api.edenai.run/v2/image/generation";
